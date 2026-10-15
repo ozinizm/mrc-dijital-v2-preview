@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="MRC manifesto visual">
+  <rect width="900" height="1200" fill="#0b0b0b"/>
+  <rect x="92" y="84" width="716" height="1032" fill="#d9d3c8"/>
+  <rect x="168" y="160" width="564" height="714" fill="#141414"/>
+  <rect x="168" y="874" width="564" height="132" fill="#b4a89b"/>
+  <text x="132" y="1070" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="142" font-weight="700" letter-spacing="-12">MRC</text>
+  <path d="M168 160h564M168 874h564M168 1006h564M168 160v846M732 160v846" stroke="#111111" stroke-width="2" opacity=".25"/>
+  <g fill="#d9d3c8" opacity=".82">
+    <rect x="240" y="250" width="420" height="24"/>
+    <rect x="240" y="318" width="344" height="24"/>
+    <rect x="240" y="386" width="390" height="24"/>
+    <rect x="240" y="454" width="276" height="24"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 620" role="img" aria-label="MRC wide editorial visual">
+  <rect width="1400" height="620" fill="#111111"/>
+  <rect x="54" y="54" width="1292" height="512" fill="#e4dfd4"/>
+  <rect x="54" y="54" width="510" height="512" fill="#161616"/>
+  <rect x="622" y="116" width="616" height="388" fill="#b8aca1"/>
+  <text x="96" y="430" fill="#e4dfd4" font-family="Arial, Helvetica, sans-serif" font-size="210" font-weight="700" letter-spacing="-18">MRC</text>
+  <g stroke="#111111" stroke-width="2" opacity=".3">
+    <path d="M622 116h616v388H622z"/>
+    <path d="M622 246h616M622 376h616M828 116v388M1032 116v388"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" role="img" aria-label="MRC journey visual">
+  <rect width="1000" height="1250" fill="#0d0d0d"/>
+  <rect x="80" y="80" width="840" height="1090" fill="#ddd7cc"/>
+  <rect x="154" y="168" width="692" height="396" fill="#151515"/>
+  <rect x="154" y="640" width="302" height="420" fill="#b5aa9e"/>
+  <rect x="514" y="640" width="332" height="420" fill="#24211e"/>
+  <text x="132" y="1134" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" letter-spacing="-12">01</text>
+  <path d="M154 168h692M154 564h692M154 640h692M456 640v420M514 640v420" stroke="#111111" stroke-width="2" opacity=".25"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" role="img" aria-label="MRC editorial visual">
+  <rect width="1100" height="1100" fill="#0b0b0b"/>
+  <rect x="88" y="88" width="924" height="924" fill="#c8beb2"/>
+  <rect x="176" y="176" width="748" height="748" fill="#101010"/>
+  <path d="M176 176l748 748M924 176L176 924" stroke="#eeeae1" stroke-width="26" opacity=".82"/>
+  <rect x="330" y="330" width="440" height="440" fill="#eeeae1"/>
+  <text x="372" y="628" fill="#101010" font-family="Arial, Helvetica, sans-serif" font-size="214" font-weight="700" letter-spacing="-18">02</text>
+</svg>

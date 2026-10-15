@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="MRC showreel visual">
+  <rect width="1600" height="900" fill="#0d0d0d"/>
+  <rect x="90" y="74" width="1420" height="752" fill="#d9d3c7"/>
+  <rect x="90" y="74" width="724" height="752" fill="#151515"/>
+  <rect x="866" y="144" width="524" height="524" fill="#b5a899"/>
+  <path d="M90 450h1420M814 74v752M866 144h524v524H866z" stroke="#080808" stroke-width="2" opacity=".28"/>
+  <circle cx="1128" cy="406" r="170" fill="#171717"/>
+  <circle cx="1128" cy="406" r="78" fill="#d9d3c7"/>
+  <text x="142" y="680" fill="#f5f4f0" font-family="Arial, Helvetica, sans-serif" font-size="220" font-weight="700" letter-spacing="-18">MRC</text>
+  <g opacity=".32" stroke="#f5f4f0" stroke-width="2">
+    <path d="M182 166h520M182 216h520M182 266h520M182 316h520M182 366h520M182 416h520M182 466h520"/>
+  </g>
+</svg>

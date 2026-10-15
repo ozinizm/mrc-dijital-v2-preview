@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-label="MRC art-directed project visual">
+  <rect width="1200" height="1500" fill="#0c0c0c"/>
+  <rect x="96" y="96" width="446" height="1308" fill="#d8d1c5"/>
+  <rect x="598" y="96" width="506" height="590" fill="#171717"/>
+  <rect x="598" y="742" width="506" height="662" fill="#b8aca0"/>
+  <path d="M96 96h1008M96 1404h1008M542 96v1308M598 686h506M598 742h506" stroke="#f5f4f0" stroke-width="2" opacity=".18"/>
+  <text x="42" y="1120" transform="rotate(-90 42 1120)" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="266" font-weight="700" letter-spacing="-22">MRC</text>
+  <text x="670" y="604" fill="#f5f4f0" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700" letter-spacing="-13">02</text>
+  <rect x="692" y="854" width="318" height="318" fill="#25211d"/>
+  <path d="M692 1172l318-318M1010 1172L692 854" stroke="#d8d1c5" stroke-width="18" opacity=".72"/>
+  <g opacity=".55" fill="#111111">
+    <rect x="168" y="192" width="310" height="18"/>
+    <rect x="168" y="238" width="250" height="18"/>
+    <rect x="168" y="284" width="286" height="18"/>
+    <rect x="168" y="330" width="190" height="18"/>
+  </g>
+</svg>
